@@ -1,2 +1,3 @@
 # RProjects
-Projetos de Machine Learning com a Linguagem R
+
+Machine Learning Projects with R
